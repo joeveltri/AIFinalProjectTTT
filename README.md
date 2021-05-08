@@ -1,7 +1,7 @@
 # AIFinalProjectTTT
 My name is Joseph Veltri and I have created a 5x5 Tic Tac Toe game with AI and Minimax Algortihm implementation. 
 
-For this github document, I will be discussing the project and usage instructions for it: 
+For this github document, I will be discussing the project and usage instructions for it:                                           
 1  - Run this code on the terminal of your computer or any 3rd party application such as IDLE or PyCharm. 
 
 2 - When prompted, please enter the name of the desired user and press enter. Please only use letters and do not leave it blank. 
@@ -13,7 +13,7 @@ For this github document, I will be discussing the project and usage instruction
 5 - At the end, it will print whether the AI has won, the user has won, or if the game has ended in a tie. 
 
 
-Here is the background for each slide that is presented: 
+Here is the background for each slide that is presented:            
 1  - The project topic is to create a Tic Tac Toe board using MiniMax algorithm. The project objectives are to create an empty game board, to take inputs from player(s) and the AI to determine the winning side, and to build the game using Python language. The approach for this project is to use dictionaries in python, how to access dictionaries, use for loop and if-else conditions with functions in python, and implement minimax algorithm so that there is a clear winner and loser
 
 2 - Tic taco toe’s history started with the Romans but their version was much more difficult than the one we know today. Each player used 3 pebbles, and had to move them around on each turn. Tic tac toe markings have been found etched all over Rome. Historians aren’t completely clear about the origin of the game’s name, but it could be referring to the noise of repetitive ticking or writing that goes along with the game’s play.
