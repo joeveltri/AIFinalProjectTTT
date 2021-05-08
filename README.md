@@ -1,11 +1,16 @@
 # AIFinalProjectTTT
 My name is Joseph Veltri and I have created a 5x5 Tic Tac Toe game with AI and Minimax Algortihm implementation. 
+
 For this github document, I will be discussing the project and usage instructions for it: 
-1: Run this code on the terminal of your computer or any 3rd party application such as IDLE or PyCharm. 
-2: When prompted, please enter the name of the desired user and press enter. Please only use letters and do not leave it blank. 
-3: At random, the first player (Either the AI or the user) will select the first position between 0-24 as there is 25 possible positions. 
-4: Each player will select open positions back-and-forth until there is a winner or a full board, or tie, occurs. 
-5: At the end, it will print whether the AI has won, the user has won, or if the game has ended in a tie. 
+1  - Run this code on the terminal of your computer or any 3rd party application such as IDLE or PyCharm. 
+
+2 - When prompted, please enter the name of the desired user and press enter. Please only use letters and do not leave it blank. 
+
+3 - At random, the first player (Either the AI or the user) will select the first position between 0-24 as there is 25 possible positions. 
+
+4 - Each player will select open positions back-and-forth until there is a winner or a full board, or tie, occurs.  
+
+5 - At the end, it will print whether the AI has won, the user has won, or if the game has ended in a tie. 
 
 
 Here is the background for each slide that is presented: 
